@@ -1,0 +1,1 @@
+14 100 100 1 1 1 0 0 0 0 5 _ R R R R 0 _ R _ 4 _ R R R R R _ _ _ R _ _ & _ _ 4 _ R R R M M _ ~ ~ _ _ R R R M M M ~ ~ ~ _ M M & M R M ~ 4 _ _ M M R M M M M R _ R R R R R R R R _ ~ _ _ R 4 R R R 4 _ ~ _ R R M 4 R R _ 8 ~ ~ R R R 
